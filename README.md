@@ -38,11 +38,7 @@ Next.js (Optional) (if a web interface is added)
  ┣ 📜 README.md                  # This file
 
 🔧 Installation & Setup
-
-Clone this repository:
-
-git clone https://github.com/your-username/gen-z-translator.git
-cd gen-z-translator
+Clone this repo.
 
 Install dependencies:
 
